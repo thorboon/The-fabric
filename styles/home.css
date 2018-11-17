@@ -1,0 +1,444 @@
+h1, ul{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body {
+    background-color: beige;
+    font-family: "Century Gothic";
+    padding: 0;
+    margin: 0;
+}
+.blogachtergrond {
+	background: beige;}
+.portfolioachtergrond {
+	background-color: white;}
+#headcontainer {
+    width: 100%;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin: auto;
+    background-image:url(../content/images/header.jpg);
+	background-size:cover;
+    height: 60px;
+    vertical-align: middle;
+    top: 0;
+    position: fixed;
+}
+
+a.navlinks {
+    color: beige;
+    text-decoration: none;
+    text-transform: uppercase;
+    vertical-align: middle;
+    font-size: 125%
+}
+
+a.navlinks:hover {
+    text-decoration: underline;
+}
+
+ul.headlinks {
+    padding: 16px 0px;
+    text-align: right;
+}
+
+img.navlogo {
+    height: 55px;
+    float: left;
+    margin-top: 2.5px;
+    margin-left: 100px;
+}
+
+li.navbar {
+    display: inline;
+    list-style-type: none;
+    margin: 0 0px;
+    margin-left: 10px;
+    padding: 0px 30px;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+#home {
+    background-image: url(../content/images/homebg.jpg);
+    text-align: center;
+    font-family: "Century Gothic";
+    color: beige;
+    background-size: cover;
+    height: 649px;
+    margin: 0;
+    margin-top: 60px;
+}
+
+#grotetitel {
+    padding-top: 110px;
+    font-size: 5em;
+    font-weight: lighter;
+}
+
+#homelinks {
+    display: inline;
+    color: bisque;
+    text-decoration: none;
+    padding: 0px 15px;
+    font-weight: bold;
+}
+
+#homelinks:hover {
+    color: burlywood;
+}
+
+#footer1 { margin-top: 17px; }
+
+#gabeneden {
+    color: beige;
+    text-decoration: none;
+    font-size: 2em;
+    padding: 3px;
+    border: ridge;
+}
+
+#gabeneden:hover { 
+    color: #a49480;
+    border-color: beige;
+    background-color: beige;
+    border: solid;
+}
+
+#about {
+    background-color: beige;
+    text-align: center;
+    font-family: "Century Gothic";
+    color: #3D352A;
+    text-decoration: none;
+    width: 960px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.serviceachtergrond {
+	background-color:white;}
+#paginatitel {
+    color: #3D352A;
+    text-transform: uppercase;
+    margin: 0px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-size: 4em;
+    font-weight: lighter;
+    text-align: center;
+}
+
+#richtingen {
+    list-style-type: none;
+    padding-bottom: 10px;
+}
+
+#subrichtingen {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 10px;
+}
+
+#aboutlinks1 {
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: lighter;
+    color: #3D352A;
+}
+
+#aboutlinks1:hover {
+    font-weight: bold;
+}
+
+.opleidinglink {
+    text-decoration: none;
+    font-weight: bold;
+    color: #3D352A
+}
+
+.opleidinglink:hover {
+    text-decoration: underline;
+}
+
+#aboutlinks2 ul li {
+    display: inline;
+}
+
+#aboutlinks2 ul li a {
+    color: #3D352A;
+    text-decoration: none;
+    padding: 0px 10px;
+    font-weight: bold;
+    list-style-type: none;
+}
+
+#aboutlinks2 ul li a:hover {
+    text-decoration: underline;
+}
+
+#services {
+    background-color: white;
+    color: #3D352A;
+    text-decoration: none;
+    text-align: center;
+}
+
+#services1 {
+    width: 400px;
+    height: 400px;
+    list-style-type: none;
+    margin-top: 70px;
+    display: inline-block;
+}
+
+#showcaseimg1 {
+    text-align: center;
+}
+
+#servicestext1 li {
+    text-align: center;
+    display: inline;
+    list-style-type: none;
+    color: cornflowerblue;
+    padding-right: 40px
+}
+
+#servicesname1 {
+    text-decoration: none;
+    color: #3D352A;
+    font-weight: bold;
+}
+
+#servicesname1:hover {
+    text-decoration: underline;
+}
+
+#servicesperson1 {
+    border-radius: 50%;
+    margin-right: 10px;
+}
+#portfolio {
+	
+    list-style-type: none;
+    
+	text-align:center;
+}
+.servicetxt {
+	text-align:center;
+	}
+.thor {
+	width: 200px;
+	height: 200px;}
+.Loopbaan {
+	width: 450px;
+	text-align:center;
+	}
+#blog {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+#artikellinks1 {
+    width: 1000px;
+    height: auto;
+    margin-bottom: 80px;
+}
+
+#artikelrechts1 {
+    width: 1000px;
+    height: auto;
+    margin-bottom: 80px;
+    text-align: left;
+    margin-left: 500px
+}
+
+#artikellinks2 {
+    width: 1000px;
+    height: auto;
+    margin-bottom: 80px;
+}
+
+#artikelrechts2 {
+    width: 1000px;
+    height: auto;
+    margin-bottom: 80px;
+    text-align: left;
+    margin-left: 500px;
+}
+
+#artikellink {
+    text-decoration: none;
+    color: #3D352A;
+    font-weight: bold;
+}
+
+#artikellink:hover {
+    text-decoration: underline;
+}
+
+#leesverder {
+    text-decoration: underline;
+    color: #3D352A;
+
+}
+
+#leesverder:hover {
+    font-weight: bold;
+}
+
+.post-date-month {
+    padding: 0 3px;
+}
+
+#contact {
+    background-color: beige;
+}
+
+#contacttotaal {
+    text-align: center
+}
+
+#contactgegevens {
+    list-style-type: none;
+    margin-top: 10px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+#contactgegevens1 {
+    list-style-type: none;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+#contactgegevens2 {
+    list-style-type: none;
+    display: inline-block;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    vertical-align: bottom;
+    text-align: left;
+}
+
+a.linkahs {
+    color: #3D352A;
+    font-weight: bold;
+    text-decoration: none
+}
+
+a.linkahs:hover {
+    text-decoration: underline;
+}
+
+#contactgegevens2 ul {
+    list-style-type: none;
+}
+
+fieldset {
+    padding: 1em;
+    color: #3D352A
+}
+
+legend {
+    text-align: center;
+    font-weight: bold;
+}
+
+label {
+    float:left;
+    width:20%;
+    margin-right: 10px;
+    padding-top:5px;
+    text-align:right;
+    font-weight:bold;
+}
+
+#txtName {
+    width: 300px;
+    margin-bottom: 3px;
+}
+
+#txtEmail {
+    width: 300px;
+    margin-bottom: 3px;
+}
+
+#txtSubject {
+    width: 300px;
+    margin-bottom: 3px;
+}
+
+#txtBody {
+    width: 298px;
+    margin-bottom: 0px;
+}
+
+#btnSend {
+    font-weight: bold;
+}
+
+
+
+#copyright {
+    display: inline;
+}
+
+#footer {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#footergeg li {
+    display: inline;
+    margin-left: 20px;
+}
+
+#footerlink {
+    text-decoration: none;
+    color: #3D352A;
+    font-weight: bold;
+}
+
+#footerlink:hover {
+    text-decoration: underline;
+}
+
+#footerlink2 {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #3D352A;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+#footerlink2:hover {
+    text-decoration: underline;
+}
+
+a.btn-gototop {
+    color: #a49480;
+    text-decoration: none;
+    font-size: 2em;
+    padding: 3px;
+    border: ridge;
+}
+
+a.btn-gototop:hover {
+    color: #a49480;
+    border-color: beige;
+    background-color: beige;
+    border: solid;
+}
+
+#knop { 
+    text-align: center;
+    margin: 10px;
+}
